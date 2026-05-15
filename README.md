@@ -70,6 +70,7 @@ Para mantener un código limpio, modular y escalable, el proyecto se ha dividido
    ```
 ## Evidencias de funcionamiento
 ### Menú
+![opcion1](https://github.com/michaelrosillo787-alt/Prueba-PracticaArboles-en-C-y-Java/blob/ba51c0b605a7410f0df31e03590ae1e8e0e08cc4/Evidencias/menu.png)
 ### Opción 1 
 ![opcion1](https://github.com/michaelrosillo787-alt/Prueba-PracticaArboles-en-C-y-Java/blob/5ac758fc068c75968123e30687d7a1ddcd9f7429/Evidencias/opcion1.png)
 ### Opción 2
